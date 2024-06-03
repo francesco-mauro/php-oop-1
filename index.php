@@ -16,7 +16,6 @@ echo "Titolo: " . $movie1->getTitle();
 echo "Durata: " . $movie1->getDuration() . " minuti";
 echo "Genere: " . $movie1->getGenre()->getName();
 
-echo "\n";
 
 echo "Titolo: " . $movie2->getTitle() ;
 echo "Durata: " . $movie2->getDuration() . " minuti";
